@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Antoine
 
-<!--
-**antcpl/antcpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a IT, networking and cybersecurity student. Passionate about cybersecurity I like to develop new challenging projects in different fields. 
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in cybersecurity led me into working in different elements but I would like to become cybersecurity researcher. 
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| ECDSA and ECC Security      | ECDSA Nonce Attack |
+| Embeedded emulation  | NVRAM Faker |
+
+## Projects
+
+### Cryptography
+[ECDSA Nonce Attack](URL)
+
+### Emulation
+[NVRAM fraker](URL)
+
+
