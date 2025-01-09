@@ -7,7 +7,6 @@ I am currently a IT, networking and cybersecurity student. Passionate about cybe
 My journey in cybersecurity led me into working in different elements but I would like to become cybersecurity researcher. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
