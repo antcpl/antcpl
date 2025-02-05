@@ -11,8 +11,8 @@ My journey in cybersecurity led me into working in different elements but I woul
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | ECDSA and ECC Security      | ECDSA Nonce Attack |
-| Wiener attack on RSA cryptosystem | Wiener Attack |
-| Embeedded emulation  | NVRAM Faker |
+| RSA Crytptosystem security | Wiener Attack |
+| Embeedded emulation  | NVRAM Faker for DCS-932 to DCS-934 |
 
 ## Projects
 
@@ -21,6 +21,6 @@ My journey in cybersecurity led me into working in different elements but I woul
 [Wiener Attack](https://github.com/antcpl/wiener-attack)
 
 ### Emulation
-[NVRAM fraker](URL)
+[NVRAM fraker for DCS-932](https://github.com/antcpl/nvram-faker-dcs930)
 
 
