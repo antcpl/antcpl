@@ -26,6 +26,6 @@ My journey in cybersecurity led me into working in different elements but I woul
 [RSA signature forgery](https://github.com/antcpl/RSA-signature-forgery)
 
 ### Emulation
-[NVRAM fraker for DCS-932](https://github.com/antcpl/nvram-faker-dcs930)
+[NVRAM fraker for DCS-932](https://github.com/antcpl/nvram-faker-dcs930)  
 [Qiling baremetal enhanced debugger](https://github.com/antcpl/qiling-baremetal-enhanced-debugger/tree/enhanced-debug)
 
