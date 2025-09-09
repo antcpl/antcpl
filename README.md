@@ -15,6 +15,7 @@ My journey in cybersecurity led me into working in different elements but I woul
 | RSA Cryptosystem security | Bleichenbacher Attack |
 | RSA cryptosystem security | RSA signature forgery|
 | Embeedded emulation  | NVRAM Faker for DCS-932 to DCS-934 |
+| Baremetal emulation and reverse | Qiling baremetal enhanced debugger|
 
 ## Projects
 
@@ -26,5 +27,5 @@ My journey in cybersecurity led me into working in different elements but I woul
 
 ### Emulation
 [NVRAM fraker for DCS-932](https://github.com/antcpl/nvram-faker-dcs930)
-
+[Qiling baremetal enhanced debugger](https://github.com/antcpl/qiling-baremetal-enhanced-debugger/tree/enhanced-debug)
 
